@@ -47,4 +47,4 @@ ___
 
 [Ссылка на документацию](https://python-docx.readthedocs.io/en/latest/index.html)
 
-[Ссылка на GitHab](https://github.com/python-openxml/python-docx)
+[Ссылка на GitHub](https://github.com/python-openxml/python-docx)
